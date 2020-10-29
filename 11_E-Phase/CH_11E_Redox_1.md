@@ -171,6 +171,55 @@ Ordne die Begriffe zu:
 [[?]] Der Elektronenakzeptor ist das Edukt, welches die Elektronen aufnimmt.
 
 
+# Aufgabe 3: Oxidationszahlen
+
+*Bestimme alle Oxidationszahlen der Verbindungen.*
+
+[[-III] [-II] [-I] [0] [+I] [+II] [+III] [+IV] [+V] [+VI] [+VII]]
+[ [ ] [ ] [ ] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] ]  Das $H$-Atom in $H_2$
+
+
+Bei Verbindungen mit langen Kohlenstoffketten besitzen die einzelnen Gruppen mit einem "C"-Atom in der Summe die Oxidationszahl 0. Dies kann bei der folgenden Verbindung Propan
+$CH_3-CH_2-CH_3$
+berücksichtig werden. Unterteile das Molekül in
+$CH_3$
+- und
+$CH_2$
+-Einheiten.
+
+[[-III] [-II] [-I] [0] [+I] [+II] [+III] [+IV] [+V] [+VI] [+VII]]
+[ [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] ]  Das erste $\bf C$-Atom in ${\bf C}H_3-CH_2-CH_3$
+[ [ ] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] ]  Das zweite $\bf C$-Atom in $CH_3-{\bf C}H_2-CH_3$
+[ [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] ]  Das dritte $\bf C$-Atom in $CH_3-CH_2-{\bf C}H_3$
+[ [ ] [ ] [ ] [ ] [X] [ ] [ ] [ ] [ ] [ ] [ ] ]  Die $H$-Atome in $CH_3-CH_2-CH_3$
+
+
+Ab hier kannst du die bekannten Regeln anwenden.
+
+[[-III] [-II] [-I] [0] [+I] [+II] [+III] [+IV] [+V] [+VI] [+VII]]
+[ [ ] [ ] [ ] [ ] [X] [ ] [ ] [ ] [ ] [ ] [ ] ]  Das $Na$-Atom in $NaOH$
+[ [ ] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] ]  Das $O$-Atom in $NaOH$
+[ [ ] [ ] [ ] [ ] [X] [ ] [ ] [ ] [ ] [ ] [ ] ]  Das $H$-Atom in $NaOH$
+[ [ ] [ ] [ ] [ ] [ ] [ ] [X] [ ] [ ] [ ] [ ] ]  Das $Al$-Atom in $Al(OH)_{3} $
+[ [ ] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] ]  Die $O$-Atome in $Al(OH)_{3} $
+[ [ ] [ ] [ ] [ ] [X] [ ] [ ] [ ] [ ] [ ] [ ] ]  Die $H$-Atome in $Al(OH)_{3} $
+[[?]] Die Hydroxidionen $OH^{-}$ können als Einheit betrachtet werden.
+[[?]] Das Hydroxidionen $OH^{-}$ hat in der Summe immer die Oxidationszahl $-I$.  
+
+
+Und weiter mit den bekannten Regeln.
+
+[[-III] [-II] [-I] [0] [+I] [+II] [+III] [+IV] [+V] [+VI] [+VII]]
+[ [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [X] [ ] ]  Das $Mn$-Atom in $MnO_{3} $
+[ [ ] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] ]  Die $O$-Atome in $MnO_{3} $
+[ [ ] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] ]  Das $Se$-Atom in $Se^{2-}$
+[ [ ] [ ] [ ] [ ] [X] [ ] [ ] [ ] [ ] [ ] [ ] ]  Das $H$-Atom in $HCO_{3}^{-}$
+[ [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [X] [ ] [ ] ]  Das $C$-Atom in $HCO_{3}^{-}$
+[ [ ] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] ]  Die $O$-Atome in $HCO_{3}^{-}$
+
+
+
+
 
 # Haftung für Links
 
