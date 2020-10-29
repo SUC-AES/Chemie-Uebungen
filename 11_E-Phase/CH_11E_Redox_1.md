@@ -53,7 +53,7 @@ $\qquad$
 
 
 
-#Aufgabe 1: Donator-Akzeptor-Prinzip
+# Aufgabe 1: Donator-Akzeptor-Prinzip
 
 *Erklären Sie das Donator-Akzeptor-Prinzip für Redoxreaktionen.*
 
@@ -69,7 +69,7 @@ Eine Redoxreaktion ist eine Elektronenübergangsreaktion. Es erfolgt eine gleich
 
 
 
-#Aufgabe 2: Begriffe
+# Aufgabe 2: Begriffe
 
 *Natrium reagiert bereits mit dem Luftsauerstoff zu Natriumoxid.
 
@@ -80,7 +80,7 @@ b) Ordne die Begriffe: Oxidation, Reduktion, Oxidationsmittel, Reduktionsmittel,
 
 Geh oben über die Pfeile "<" und ">" eine Seite weiter, um die Lösungen zu sehen.
 
-##Reaktionsgleichungen
+## Reaktionsgleichungen
 
 *Formuliere die Teil- und Gesamtgleichung für die Reaktion von Natrium mit Sauerstoff.*
 
@@ -110,7 +110,7 @@ $$
 
 ******************************************
 
-##Begriffe zuordnen
+## Begriffe zuordnen
 
 *Ordne die Begriffe: Oxidation, Reduktion, Oxidationsmittel, Reduktionsmittel, Elektronendonator und Elektronenakzeptor den Stoffen in der Reaktion von Natrium mit Sauerstoff zu.*
 
@@ -167,6 +167,6 @@ Ordne die Begriffe zu:
 
 
 
-#Haftung für Links
+# Haftung für Links
 
 Wir sind für den Inhalt von Webseiten, die über einen Hyperlink erreicht werden, nicht verantwortlich. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Wir machen uns die Inhalte dieser Internetseiten ausdrücklich nicht zu eigen und können deshalb für die inhaltliche Korrektheit, Vollständigkeit und Verfügbarkeit keine Gewähr leisten. Wir haben bei der erstmaligen Verknüpfung zwar den fremden Inhalt daraufhin überprüft, ob durch ihn eine mögliche zivilrechtliche oder strafrechtliche Verantwortlichkeit ausgelöst wird. Wir sind aber nicht dazu verpflichtet, die Inhalte, auf die wir unserem Angebot verweisen, ständig auf Veränderungen zu überprüfen, die eine Verantwortlichkeit neu begründen könnten. Erst wenn wir feststellen oder von anderen darauf hingewiesen werden, dass ein konkretes Angebot, zu dem wir einen Link bereitgestellt haben, eine zivil- oder strafrechtliche Verantwortlichkeit auslöst, werden wir den Verweis auf dieses Angebot aufheben, soweit uns dies technisch möglich und zumutbar ist.
