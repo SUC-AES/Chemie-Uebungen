@@ -58,7 +58,7 @@ $\qquad$
 
 # Aufgabe 1: Donator-Akzeptor-Prinzip
 
-*Erklären Sie das Donator-Akzeptor-Prinzip für Redoxreaktionen.*
+*Erkläre allgemein das Donator-Akzeptor-Prinzip für Redoxreaktionen.*
 
 Wenn du deine Antwort formuliert hast, kannst du durch die Eingabe von "Fertig" in den unteren Kasten und dem Drücken von "Check" die Musterlösung lesen. Wenn du die Musterlösung nicht siehst, drücke "i".
 
@@ -74,11 +74,11 @@ Eine Redoxreaktion ist eine Elektronenübergangsreaktion. Es erfolgt eine gleich
 
 # Aufgabe 2: Begriffe
 
-*Natrium reagiert bereits mit dem Luftsauerstoff zu Natriumoxid.
+*Natrium reagiert bereits mit dem Luftsauerstoff zu Natriumoxid.*
 
-a) Formuliere die Teil- und Gesamtgleichung für diese Reaktion.
+*a) Formuliere die Teil- und Gesamtgleichung für diese Reaktion.*
 
-b) Ordne die Begriffe: Oxidation, Reduktion, Oxidationsmittel, Reduktionsmittel, Elektronendonator und Elektronenakzeptor den Stoffen in der Reaktion von Natrium mit Sauerstoff zu.*
+*b) Ordne die Begriffe: Oxidation, Reduktion, Oxidationsmittel, Reduktionsmittel, Elektronendonator und Elektronenakzeptor den Stoffen in der Reaktion von Natrium mit Sauerstoff zu.*
 
 
 Geh oben über die Pfeile "<" und ">" eine Seite weiter, um die Lösungen zu sehen.
