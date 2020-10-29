@@ -8,6 +8,7 @@ script: url.js
 View this file on https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathematik-5/master/2_Massen_1.md
 -->
 
+
 # Chemie E1: Redoxchemie
 
 Redoxreaktionen sind neben den Säure-Base-Reaktionen die Reaktionen, für welche das Donator-Akzeptor-Prinzip gilt.
@@ -15,6 +16,8 @@ Redoxreaktionen sind neben den Säure-Base-Reaktionen die Reaktionen, für welch
 Du findest auf diesen Seiten die Checklisten zu den Themen in den einzelnen Klassen (als pdf). Dazu sind hier Aufgaben zur Wiederholung angegeben. Du kannst dir dazu die Lösungen und weitere Anmerkungen oder z.B. auch Rechnungen anschauen.
 
 Immer wenn du selber etwas formulieren musst und deinen Text mit der Musterlösung vergleichen willst, musst du "fertig" eingeben, um die Musterlösung zu erhalten.
+
+Wechsle mit einem Klick auf die oberen Pfeile "<" und ">" auf den vorherigen bzw. nächsten Slide. Drücke nun ">". 
 
 
 **Übersicht über die Themen der ** ***E-Phase***
@@ -80,6 +83,7 @@ b) Ordne die Begriffe: Oxidation, Reduktion, Oxidationsmittel, Reduktionsmittel,
 
 Geh oben über die Pfeile "<" und ">" eine Seite weiter, um die Lösungen zu sehen.
 
+
 ## Reaktionsgleichungen
 
 *Formuliere die Teil- und Gesamtgleichung für die Reaktion von Natrium mit Sauerstoff.*
@@ -109,6 +113,7 @@ $O^{2-}$:   -II
 $$
 
 ******************************************
+
 
 ## Begriffe zuordnen
 
