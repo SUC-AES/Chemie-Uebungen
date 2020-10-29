@@ -125,6 +125,7 @@ Gib zuerst an, welcher Stoff zu welchem Stoff oxidiert bzw. reduziert wird. Mit 
 ******************************************
 
 Das Natriumatom wird zu einem Natriumion oxidiert.
+
 Das Sauerstoffmolekül wird zu zwei Oxidionen reduziert.
 
 
