@@ -15,7 +15,7 @@ Redoxreaktionen sind neben den Säure-Base-Reaktionen die Reaktionen, für welch
 
 Du findest auf diesen Seiten die Checklisten zu den Themen in den einzelnen Klassen (als pdf). Dazu sind hier Aufgaben zur Wiederholung angegeben. Du kannst dir dazu die Lösungen und weitere Anmerkungen oder z.B. auch Rechnungen anschauen.
 
-Immer wenn du selber etwas formulieren musst und deinen Text mit der Musterlösung vergleichen willst, musst du "fertig" eingeben, um die Musterlösung zu erhalten.
+Immer wenn du selber etwas formulieren musst und deinen Text mit der Musterlösung vergleichen willst, musst du "Fertig" eingeben, um die Musterlösung zu erhalten.
 
 Wechsle mit einem Klick auf die oberen Pfeile "<" und ">" auf den vorherigen bzw. nächsten Slide. Drücke nun ">".
 
