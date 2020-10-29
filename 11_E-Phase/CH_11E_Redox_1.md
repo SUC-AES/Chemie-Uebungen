@@ -17,7 +17,7 @@ Du findest auf diesen Seiten die Checklisten zu den Themen in den einzelnen Klas
 
 Immer wenn du selber etwas formulieren musst und deinen Text mit der Musterlösung vergleichen willst, musst du "fertig" eingeben, um die Musterlösung zu erhalten.
 
-Wechsle mit einem Klick auf die oberen Pfeile "<" und ">" auf den vorherigen bzw. nächsten Slide. Drücke nun ">". 
+Wechsle mit einem Klick auf die oberen Pfeile "<" und ">" auf den vorherigen bzw. nächsten Slide. Drücke nun ">".
 
 
 **Übersicht über die Themen der ** ***E-Phase***
@@ -60,9 +60,9 @@ $\qquad$
 
 *Erklären Sie das Donator-Akzeptor-Prinzip für Redoxreaktionen.*
 
-Wenn du deine Antwort formuliert hast, kannst du durch die Eingabe von "fertig" in den unteren Kasten und dem Drücken von "Check" die Musterlösung lesen. Wenn du die Musterlösung nicht siehst, drücke "i".
+Wenn du deine Antwort formuliert hast, kannst du durch die Eingabe von "Fertig" in den unteren Kasten und dem Drücken von "Check" die Musterlösung lesen. Wenn du die Musterlösung nicht siehst, drücke "i".
 
-[[fertig]]
+[[Fertig]]
 ******************************************
 
 Eine Redoxreaktion ist eine Elektronenübergangsreaktion. Es erfolgt eine gleichzeitige Elektronenabgabe durch den Elektronendonator und Elektronenaufnahme durch den Elektronenakzeptor
@@ -88,9 +88,9 @@ Geh oben über die Pfeile "<" und ">" eine Seite weiter, um die Lösungen zu seh
 
 *Formuliere die Teil- und Gesamtgleichung für die Reaktion von Natrium mit Sauerstoff.*
 
-Wenn du die Reaktionsgleichungen formuliert hast, kannst du "fertig" eingeben, um die Musterlösung zu sehen.
+Wenn du die Reaktionsgleichungen formuliert hast, kannst du "Fertig" eingeben, um die Musterlösung zu sehen.
 
-[[fertig]]
+[[Fertig]]
 ******************************************
 
 Oxidationszahlen:
@@ -119,9 +119,9 @@ $$
 
 *Ordne die Begriffe: Oxidation, Reduktion, Oxidationsmittel, Reduktionsmittel, Elektronendonator und Elektronenakzeptor den Stoffen in der Reaktion von Natrium mit Sauerstoff zu.*
 
-Gib zuerst an, welcher Stoff zu welchem Stoff oxidiert bzw. reduziert wird. Mit "fertig" erhälst du die Musterlösung.
+Gib zuerst an, welcher Stoff zu welchem Stoff oxidiert bzw. reduziert wird. Mit "Fertig" erhälst du die Musterlösung.
 
-[[fertig]]
+[[Fertig]]
 ******************************************
 
 Das Natriumatom wird zu einem Natriumion oxidiert.
