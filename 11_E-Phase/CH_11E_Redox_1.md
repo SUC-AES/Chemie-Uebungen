@@ -38,7 +38,7 @@ $\qquad$
 
 [10. Klasse]()
 
-[E-Phase]
+[E-Phase]()
 
 [Q1-Phase]()
 
@@ -106,7 +106,7 @@ $O^{2-}$:   -II
 > $$
 \begin{aligned}
 &Ox: & Na & \rightarrow  && Na^+ + e^- && \mid \cdot 4 \\
-&Red: & O_2 + 4~ e^- & \rightarrow && 2~ O^{2-} \\
+&Red: & O_2 + 4~ e^- & \rightarrow && 2~ O^{2-} \\ \\
 &Redox: & ~4~ Na + O_2 & \rightarrow && 4 ~Na^+ + 2 ~O^{2-} \\
 &Redox: & ~4~ Na + O_2 & \rightarrow && 2 ~Na_2 O \\
 \end{aligned}
@@ -219,7 +219,291 @@ Und weiter mit den bekannten Regeln.
 [ [ ] [X] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] ]  Die $O$-Atome in $HCO_{3}^{-}$
 
 
+# Aufgabe 4: Reaktionsgleichungen auf Redoxgleichung überprüfen
 
+*Vervollständige die Reaktionsgleichungen. Entscheide, welche der Reaktionen eine Redoxreaktion ist.*
+
+> $$
+\begin{aligned}
+& 3~Cu && +~ 2~ HNO_3 && \rightarrow  && 3~CuO && +~ 2~NO &&+~ H_2 O \\
+& 3~CuO && +~ 6~ HNO_3 && \rightarrow && 3~ {Cu(NO_3)}_2 && +~3~ H_2O\\
+\end{aligned}
+$$
+
+Gehe zur nächsten Seite, um deine Lösungen zu überprüfen.
+
+## Reaktion 1
+
+Reaktionsgleichung:
+
+> $$
+\begin{aligned}
+& 3~Cu && +~ 2~ HNO_3 && \rightarrow  && 3~CuO && +~ 2~NO &&+~ H_2 O \\
+\end{aligned}
+$$
+
+Gib "Fertig" ein, um die Musterlösung anzuschauen. Drücke "?", um Hilfen zu erhalten.
+
+[[Fertig]]
+[[?]] Bestimme alle Oxidationszahlen und vergleiche diese.
+**************************************************
+
+
+Oxidationszahlen auf der Eduktseite:
+
+$$
+\begin{aligned}
+Edukte: ~~~ &Cu: & 0 \\
+&H: & +I \\
+&N: & +V \\
+&O: & -II \\
+Produkte: ~~~ & Cu: & +II \\
+& N: & +II \\
+& H: & +I \\
+& alle~ O: & -II \\
+\end{aligned}
+$$
+
+Es handelt sich um eine Redoxreaktion:
+
+Das Kupferatom wird oxidiert, da es seine Oxidationszahl von $0$ nach $+II$ ändert.
+
+Das Stickstoffatom wird reduziert, da es seine Oxidationszahl von $+V$ nach $+II$ ändert.
+
+**************************************************
+
+
+## Reaktion 2
+
+Reaktionsgleichung:
+
+> $$
+\begin{aligned}
+& 3~CuO && +~ 6~ HNO_3 && \rightarrow && 3~ {Cu(NO_3)}_2 && +~3~ H_2O\\
+\end{aligned}
+$$
+
+Gib "Fertig" ein, um die Musterlösung anzuschauen.
+
+[[Fertig]]
+[[?]] Bestimme alle Oxidationszahlen und vergleiche diese.
+**************************************************
+
+
+
+Oxidationszahlen auf der Eduktseite:
+
+$$
+\begin{aligned}
+Edukte: ~~~ &Cu: & +II \\
+&H: & +I \\
+&N: & +V \\
+&alle~O: & -II \\
+Produkte: ~~~ & Cu: & +II \\
+& N: & +V \\
+& H: & +I \\
+& alle~ O: & -II \\
+\end{aligned}
+$$
+
+Es handelt sich nicht um eine Redoxreaktion, da sich die Oxdationszahlen nicht ändert
+
+**************************************************
+
+
+# Aufgabe 5: Redoxreaktionen in wässriger Lösung
+
+*Stelle für jede Reaktion die Teil- und Gesamtgleichung auf. *
+
+1. *In saurer Lösung reagiert Ethanol ($CH_3-CH_2OH$ auch bekannt als Trinkalkohol) mit Chromationen ($CrO_4^{2-}$) zu Ethansäure ($CH_3-COOH$) und Chrom(III)-ionen.*
+2. *Zink reagiert in saurer Lösung mit Nitrationen ($NO_3^-$) zu Zink(II)- und Ammoniumionen.*
+
+Gehe zur nächsten Seite für die Musterlösung
+
+
+## Reaktion 1
+
+ *In saurer Lösung reagiert Ethanol ($CH_3-CH_2OH$ auch bekannt als Trinkalkohol) mit Chromationen ($CrO_4^{2-}$) zu Ethansäure ($CH_3-COOH$) und Chrom(III)-ionen.*
+
+ Gib "Fertig" ein, um die Musterlösung zu erhalten.
+
+ Mit dem Drücken auf "?" erhälst du Hinweise, um die Aufgabe zu lösen.
+
+ [[Fertig]]
+ [[?]] Schreibe pro Edukt und zugehörigem Produkt eine Zeile auf.
+ [[?]] Bestimme die Oxidationszahlen.
+ [[?]] Bestimme, welche Teilreaktion die Oxidation und die Redaktion ist.
+ [[?]] Gleiche die Oxidationszahlen mit Elektronen aus.
+ [[?]] Da es sich um eine saure Lösung handelt, gleiche die Ladungen mit $H_3 O^+$ aus.
+ [[?]] Gleiche die Anzahl der Teilchen mit Wasser ($H_2 O$) aus.
+ [[?]] Multipliziere die Gleichungen so, dass die Anzahl der Elektronen gleich ist.
+ [[?]] Addiere die Teilgleichungen.
+*************************************************************
+
+
+
+$$
+\begin{aligned}
+&Ox:~ && CH_3CH_2OH && +~ 5~ H_2O &&~ && \rightarrow ~~ && CH-COOH && +~ 4~e^- && +~4~H_3O^+  \quad && \mid \cdot 3 \\
+&Red:~ && CrO_4^{2-} && +~ 3~ e^- && +~8~H_3O^+ && \rightarrow  && Cr^{3+} && +~ 12~H_2 O &&  && \mid \cdot 4 \\
+\\
+&Ox:~ && 3~CH_3CH_2OH && +~ 15~ H_2O &&~ && \rightarrow && 3~CH-COOH && +~ 12~e^- && +~12~H_3O^+  \quad && \\
+&Red:~ && 4~CrO_4^{2-} && +~ 12~ e^- && +~32~H_3O^+ && \rightarrow && 4~Cr^{3+} && +~ 48~H_2 O &&  && \\
+\\
+&Redox: ~~&& 3~CH_3CH_2OH && +~ 4~CrO_4^{2-} && +~ 20~ H_3O^+ && \rightarrow && 3~CH-COOH && +~ 4~Cr^{3+} && +~ 3~H_2 O \\
+\end{aligned}
+$$
+
+*************************************************************
+
+
+## Reaktion 2
+
+*Zink reagiert in saurer Lösung mit Nitrationen ($NO_3^-$) zu Zink(II)- und Ammoniumionen.*
+
+ Gib "Fertig" ein, um die Musterlösung zu erhalten.
+
+ Mit dem Drücken auf "?" erhälst du Hinweise, um die Aufgabe zu lösen.
+
+ [[Fertig]]
+ [[?]] Schreibe pro Edukt und zugehörigem Produkt eine Zeile auf.
+ [[?]] Bestimme die Oxidationszahlen.
+ [[?]] Bestimme, welche Teilreaktion die Oxidation und die Redaktion ist.
+ [[?]] Gleiche die Oxidationszahlen mit Elektronen aus.
+ [[?]] Da es sich um eine saure Lösung handelt, gleiche die Ladungen mit $H_3 O^+$ aus.
+ [[?]] Gleiche die Anzahl der Teilchen mit Wasser ($H_2 O$) aus.
+ [[?]] Multipliziere die Gleichungen so, dass die Anzahl der Elektronen gleich ist.
+ [[?]] Addiere die Teilgleichungen.
+*************************************************************
+
+
+
+$$
+\begin{aligned}
+&Ox:~ && Zn &&~ && && \rightarrow ~~ && Zn^{2+} && +~ 2~e^- &&  \quad && ~&& \mid \cdot 4 \\
+&Red:~ && NO_3^{-} && +~ 8~ e^- && +~8~H_3O^+ && \rightarrow  && NH-4^{+} && +~ 13~H_2 O &&  && \\
+\\
+&Ox:~ && 4~Zn &&~ && && \rightarrow ~~ && 4~Zn^{2+} && +~ 8~e^- &&  \quad &&  \\
+&Red:~ && NO_3^{-} && +~ 8~ e^- && +~8~H_3O^+ && \rightarrow  && NH-4^{+} && +~ 13~H_2 O &&  && \\
+\\
+&Redox:~~ && 4~Zn && +~ NO_3^{-} && +~ 10~ H_3O^+ && \rightarrow && 4~Zn^+ && +~ 4~NH_4^{+} && +~ 13~H_2 O
+\end{aligned}
+$$
+
+*************************************************************
+
+
+# Aufgabe 6: Redoxreihe
+
+Gegeben ist die erweitere Redoxreihe.
+
+> Erweiterte Redoxreihe
+
+> $$
+\begin{aligned}
+Li && / && Li^+ \\
+K && / && K^+ \\
+Ca && / && Ca^{2+} \\
+Na && / && Na^+ \\
+Mg && / && Mg^{2+} \\
+Al && / && Al^{3+} \\
+Zn && / && Zn^{2+} \\
+Fe && / && Fe^{2+} \\
+Ni && / && Ni^{2+} \\
+Pb && / && Pb^{2+} \\
+Cu && / && Cu^{2+} \\
+Ag && / && Ag^+ \\
+Au && / && Au^{3+} \\
+\end{aligned}
+$$
+
+Entscheide, welche der Reaktionen stattfindet und gib dann die vollständige Reaktionsgleichung an.
+
+Schreibe "Ja" oder "Nein".
+
+> $Na ~ + ~ Ni^{2+} ~ \rightarrow $
+
+[[Ja]]
+******************************
+
+
+Reaktionsgleichung:
+
+$2~Na ~ + ~ Ni^{2+} ~ \rightarrow ~ 2~Na^{+} ~ + ~ Ni$
+
+******************************
+
+
+
+> $Ni ~ + ~ Na^{+} ~ \rightarrow $
+
+[[Nein]]
+******************************
+
+
+Reaktionsgleichung:
+
+$Ni ~ + ~ Na^{+} ~ \nrightarrow ~ $
+
+******************************
+
+
+
+
+> $Ca ~ + ~ Pb^{2+} ~ \rightarrow $
+
+[[Ja]]
+******************************
+
+
+Reaktionsgleichung:
+
+$Ca ~ + ~ Pb^{2+} ~ \rightarrow ~ Ca^{2+} ~ + ~ Pb$
+
+******************************
+
+
+> $Ag ~ + ~ Pb^{2+} ~ \rightarrow $
+
+[[Nein]]
+******************************
+
+
+Reaktionsgleichung:
+
+$Ag ~ + ~ Pb^{2+} ~ \nrightarrow ~ $
+
+******************************
+
+
+> $Fe ~ + ~ Al ~ \rightarrow $
+
+[[Nein]]
+******************************
+
+
+Reaktionsgleichung:
+
+$Fe ~ + ~ Al ~ \nrightarrow ~ $
+
+Zwei Metalle können keine Redoxreaktion eingehen, da ein Elektronenakzeptor in der Reaktionsgleichung fehlt.
+
+******************************
+
+
+> $Al^{3+} ~ + ~ Ni^{2+} ~ \rightarrow $
+
+[[Nein]]
+******************************
+
+
+Reaktionsgleichung:
+
+$Al^{3+} ~ + ~ Ni^{2+} ~ \nrightarrow ~ $
+
+Zwei Metallionen können keine Redoxreaktion eingehen, da ein Elektronendonator in der Reaktionsgleichung fehlt.
+
+******************************
 
 
 # Haftung für Links
