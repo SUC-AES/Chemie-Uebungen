@@ -11,6 +11,7 @@ View this file on https://liascript.github.io/course/?https://raw.githubusercont
 
 # Chemie 8. Klasse
 
+Im Browser kannst du über die Überschriften in der linken Spalte zur nächsten Seite navigieren. Über ein Tablett oder Handy kannst du mit den Pfeilen "<" und ">" auf den vorherigen bzw. nächsten Slide gehen.
 
 **Übersicht über die Themen der ** ***8. Klasse***
 
@@ -57,8 +58,6 @@ $\qquad$
 # Arbeitsauftrag: Stoffgruppen - Reinstoffe und Gemische
 
 Bearbeite bitte den Arbeitsauftrag.
-
-Im Browser kannst du über die Überschriften in der linken Spalte zur nächsten Seite navigieren. Über ein Tablett oder Handy kannst du mit den Pfeilen "<" und ">" auf den vorherigen bzw. nächsten Slide gehen. Momentan bist du auf dem Slide der Nummer 2.
 
 Bei Abfragen kannst du mit dem Drücken des Buttons "Check" überprüfen, ob deine Antwort korrekt ist oder nicht. Wenn deine Antwort einmal falsch (roter Button Check) sein sollte, kannst du mit Klicken auf das Ausrufezeichen "!" die korrekte Antwort ansehen.
 
